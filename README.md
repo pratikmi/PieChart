@@ -1,5 +1,5 @@
 # Pie Chart Custom View
-Simple implementation of PieChart
+Simple implementation of custom Pie Chart in Android
 
   ![image](/media/pie.png)
 
