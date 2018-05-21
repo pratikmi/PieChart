@@ -33,5 +33,9 @@ Simple implementation of custom Pie Chart in Android
     custPieChart.setStroke(true, 10f);
 ```
 
+# LICENSE!
+
+PieChart is [MIT-licensed](https://github.com/mindinventory1/PieChart/blob/master/LICENSE).
+
 ## Let us know!
 We’d be really happy if you sent us links to your projects where you use our component. Just send an email to sales@mindinventory.com And do let us know if you have any questions or suggestion regarding our work.
